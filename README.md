@@ -1,5 +1,7 @@
 ### Flask API
 
+#### Hosted API Link - http://ankur36.pythonanywhere.com/
+
 #### Usage
 - Route `/`
     - Headers: Authorization/{'token': 'API_KEY'}
